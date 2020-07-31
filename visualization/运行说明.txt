@@ -1,0 +1,9 @@
+环境：
+	python3.7
+	pip install open3d
+	pip install alfred
+	pip install opencv-python
+
+“生成单帧图像.py”可直接运行，只做展示之用
+若要运行“批量生成单帧图像.py”，须将alfred库安装路径下的pointcloud_vis.py文件替换为此文件中附带的pointcloud_vis.py，生成的图像将自动储存在result文件夹中
+需替换文件所在路径举例：C:\Users\xuqian\anaconda3\Lib\site-packages\alfred\vis\pointcloud\pointcloud_vis.py
