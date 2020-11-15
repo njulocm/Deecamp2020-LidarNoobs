@@ -1,7 +1,7 @@
 环境：
 	python3.7
 	pip install open3d
-	pip install alfred
+	pip install alfred-py
 	pip install opencv-python
 
 “生成单帧图像.py”可直接运行，只做展示之用
